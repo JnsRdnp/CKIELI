@@ -1,0 +1,3 @@
+C:/Users/joona/Documents/OHJELMOINTI/CKIELI/CLIONTESTI/cmake-build-debug/CMakeFiles/CLIONTESTI.dir
+C:/Users/joona/Documents/OHJELMOINTI/CKIELI/CLIONTESTI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joona/Documents/OHJELMOINTI/CKIELI/CLIONTESTI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
